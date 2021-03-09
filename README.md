@@ -1,7 +1,7 @@
 # Machine-learning-Predicting-housing-prices-
 House Prices - Advanced Regression Techniques´ Kaggle competition: using machine learning to predict housing prices in Iowa. 
 
-Find the link to the kaggle competition below:
+Find the link to the kaggle competition:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 This repository has several files:
