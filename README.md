@@ -1,6 +1,8 @@
 # Machine-learning-Predicting-housing-prices-
 House Prices - Advanced Regression Techniques´ Kaggle competition: using machine learning to predict housing prices in Iowa. 
 
+The aim of the project is to find the algorithm that can best predict housing prices in Ames, a city in the State of Iowa. Ames is a growing city in Iowa that has experienced some recent real estate developments. This project intends to provide insight that can inform decision making in real estate companies operating in this market. 
+
 Find the link to the kaggle competition:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
