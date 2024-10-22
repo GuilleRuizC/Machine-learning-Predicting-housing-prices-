@@ -6,8 +6,4 @@ The aim of the project is to find the algorithm that can best predict housing pr
 Find the link to the kaggle competition:
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-This repository has several files:
-1. Code_Predicting housing prices.ipynb: the jupyter notebook with the code for the project. It also has comments to help understand the thought process begind the code. Be aware that for the notebook to run in your computer the working directory should be changed to the one in your computer where the data is. The path to the working directory can be updated in the second code cell.
-2. Predicting housing prices Ames, Iowa.pptx: power point presenting the project. It is aimed to a public with some technical knowledge. 
-3. train.csv: data used for the project. It has been uploaded to github for your conveniance as it can also be downloaded from Kaggle´s webpage.
-
+This repository the jupyter notebook with the code for the project: Code_Predicting housing prices.ipynb. It also has comments to help understand the thought process begind the code. Be aware that for the notebook to run in your computer the working directory should be changed to where the data in your computer is. The path to the working directory can be updated in the second code cell.
